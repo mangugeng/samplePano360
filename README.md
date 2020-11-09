@@ -1,2 +1,2 @@
 # sample360
- samole Vr 360
+ sample Vr 360
