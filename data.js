@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-rommutama",
-      "name": "rommutama",
+      "name": "Ruang Utama",
       "levels": [
         {
           "tileSize": 256,
@@ -55,7 +55,7 @@ var APP_DATA = {
     },
     {
       "id": "1-pano_kid_color",
-      "name": "Pano_kid_color",
+      "name": "Kamar Anak",
       "levels": [
         {
           "tileSize": 256,
@@ -93,7 +93,7 @@ var APP_DATA = {
     },
     {
       "id": "2-room",
-      "name": "room",
+      "name": "Ruang Utama",
       "levels": [
         {
           "tileSize": 256,
@@ -123,7 +123,7 @@ var APP_DATA = {
     },
     {
       "id": "3-dapur",
-      "name": "dapur",
+      "name": "Dapur",
       "levels": [
         {
           "tileSize": 256,
