@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-rommutama",
-      "name": "rommutama",
+      "name": "Ruang Utama",
       "levels": [
         {
           "tileSize": 256,
