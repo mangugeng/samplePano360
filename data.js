@@ -55,7 +55,7 @@ var APP_DATA = {
     },
     {
       "id": "1-pano_kid_color",
-      "name": "pano_kid_color",
+      "name": "Pano_kid_color",
       "levels": [
         {
           "tileSize": 256,
